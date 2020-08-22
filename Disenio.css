@@ -15,6 +15,47 @@ body {
     max-width: 850px;
     margin: 0 auto;
 }
+.ACDE{
+    font-size-adjust: none;
+    justify-content: center;
+    line-height: 1.6em;
+        width: 100vh;
+        height: 100vh;
+        background-color: rgba(255, 255, 255, 0.829);
+    max-width: 850px;
+    margin: 0 auto;
+}
+.CUNI{
+    font-size-adjust: none;
+    justify-content: center;
+    line-height: 1.6em;
+        width: 100vh;
+        height: 100vh;
+        background-color: rgba(255, 255, 255, 0.829);
+    max-width: 850px;
+    margin: 0 auto;
+}
+.imag{
+    justify-content: right;
+    max-width: 300px;
+    margin: 0 auto;
+}
+.imgref{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto ;
+    max-height: 850px;
+}
+.ref{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.Carr{
+    justify-content: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
 .cabecera{
     padding: 2rem 0;
     background: #100f5f;
