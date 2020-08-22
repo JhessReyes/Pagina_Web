@@ -1,0 +1,72 @@
+body {
+    background:rgba(255, 255, 255, 0.829); 
+}
+.main{
+    padding-top: 10rem;
+    justify-content: center;
+}
+.title{
+    font-size-adjust: none;
+    justify-content: center;
+    line-height: 1.6em;
+        width: 100vh;
+        height: 100vh;
+        background-color: rgba(255, 255, 255, 0.829);
+    max-width: 850px;
+    margin: 0 auto;
+}
+.cabecera{
+    padding: 2rem 0;
+    background: #100f5f;
+    color: white;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+.cabecera a{
+    color: white;
+    text-decoration: none;
+}
+.contenedor{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+.logo-contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    letter-spacing: 0.2px;
+}
+.barra ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.barra ul li{
+    display: inline-block;
+}
+.barra ul li a{
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.5s linear;
+    border: 55px;
+}
+.barra ul li a:hover{
+    background:rgba(255, 255, 255, 0.829);
+}
+.footer{
+    padding: 1rem 0;
+    background: #5f87f5b0;
+    color: white;
+    text-align: center;
+    margin-top: 6rem;
+    font-size: 15px;
+}
+
+.acerca_de{
+    text-align: justify;
+}
